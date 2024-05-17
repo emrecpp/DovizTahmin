@@ -1,0 +1,5 @@
+pandas
+matplotlib
+openpyxl
+PySide6
+PySide6-Fluent-Widgets[full]
