@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>images/turkish-lira.png</file>
+    <file>images/dollar.png</file>
+    <file>images/euro.png</file>
+  </qresource>
+</RCC>
