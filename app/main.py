@@ -1,6 +1,7 @@
 import sys, os
 from threading import Thread
 sys.path.append(f"Ui{os.sep}") # otherwise it will cause error because "import images_rc" can't found in Ui file.
+sys.path.append("..\\")
 from app.imports import *
 from app.ui.ui_DialogMain import Ui_DialogMain
 from predict import DolarOrEuro
