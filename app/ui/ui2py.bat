@@ -1,0 +1,1 @@
+C:\Users\%username%\miniconda3\envs\py310\Lib\site-packages\PySide6\uic.exe DialogMain.ui > ui_DialogMain.py -g python
